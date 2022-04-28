@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsLambdaAnnotations", "AwsLambdaAnnotations\AwsLambdaAnnotations.csproj", "{DD1A2DE0-2CD3-4049-989E-86535DB007B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DDC0CB8A-6313-4F1B-B4EB-4854C8C16888}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+		template.yaml = template.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1A2DE0-2CD3-4049-989E-86535DB007B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1A2DE0-2CD3-4049-989E-86535DB007B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1A2DE0-2CD3-4049-989E-86535DB007B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1A2DE0-2CD3-4049-989E-86535DB007B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EEA213C-1C57-463E-ACF5-3DF68304ED34}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+.aws-sam/
+.vs/
+bin/
+obj/
